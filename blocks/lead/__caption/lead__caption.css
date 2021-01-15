@@ -1,0 +1,21 @@
+.lead__caption {
+    font-size: 10px;
+    line-height: 14px;
+    color: #ffffff;   
+    align-self: start;
+    margin: 8px 0 0;
+
+}
+
+@media (max-width: 768px) {
+    .lead__caption {
+      margin-left: 24px;
+    }
+  }
+  
+  @media (max-width: 320px) {
+    .lead__caption {
+      margin-left: 16px;
+    }
+  }
+  
