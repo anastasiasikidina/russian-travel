@@ -1,4 +1,4 @@
-# [russian-travel](https://anastasiasikidina.github.io/russian-travel/)
+# [russian-travel](https://anastasiasikidina.github.io/russian-travel/index.html)
 Проект 3: Путешествие по России
 
 __интро__
