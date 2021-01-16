@@ -31,7 +31,7 @@
     }
 }
 
-@media (max-width : 425px) {
+@media (max-width: 425px) {
     .intro {
         padding-right: 16px;
         padding-left: 16px;

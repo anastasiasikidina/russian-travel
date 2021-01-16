@@ -9,14 +9,14 @@
     margin-top: 92px;
 }
 
-@media (max-width : 768px) {
+@media (max-width: 768px) {
     .cover {
         margin-top: 88px;
         
     }
 }
 
-@media (max-width : 425px) {
+@media (max-width: 425px) {
     .cover {
         margin-top: 64px;
     }
