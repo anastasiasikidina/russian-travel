@@ -6,19 +6,16 @@
 @import url(./__paragraph/place__paragraph.css);
 
 .place {
- /*   padding: 0;*/
     margin: 0;
     display: grid;
     grid-template-columns: minmax(320px, 460px) minmax(288px, 484px);
     gap: 48px 40px;
-
     margin-bottom: 80px;
     overflow: hidden;
 }
 
 .place:last-of-type {
     margin-bottom: 0;
-    
 }
 
 @media (max-width: 1024px) {

@@ -1,13 +1,11 @@
 @import url(./__item/photo-grid__item.css);
 
 .photo-grid {
-   /* padding: 92px 48px 0;*/
     padding: 0 48px;
     margin: 0 auto;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
     gap: 16px;
-   /* max-width: 1184px;*/
    margin-top: 92px;
 }
 
@@ -31,9 +29,3 @@
         grid-template-columns: 1fr;
     }
 }
-/*@media (max-width: 320px) {
-    .photo-grid {
-        padding: 64px 16px 0;
-        gap: 12px;
-    }
-}*/

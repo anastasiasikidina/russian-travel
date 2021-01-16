@@ -1,10 +1,10 @@
 .lead__caption {
     font-size: 10px;
     line-height: 14px;
+    font-weight: normal;
     color: #ffffff;
     align-self: start;
     margin: 8px 0 0;
-
 }
 
 @media (max-width: 768px) {

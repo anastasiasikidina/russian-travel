@@ -6,14 +6,11 @@
 
 .intro {
     margin: 0 auto;
-    /*padding: 114px 442px 0 148px;*/
     max-width: 984px;
-    /*max-height: 429px;*/
 }
 
 @media (max-width: 1024px) {
     .intro {
-        /*padding: 114px 286px 0 48px;*/
         padding: 0;
         padding-right: 48px;
         padding-left: 48px;
@@ -22,7 +19,6 @@
 
 @media (max-width: 768px) {
     .intro {
-      /*  padding: 110px 24px 0;*/
       padding-right: 24px;
       padding-bottom: 0px;
       padding-left: 24px;
@@ -39,9 +35,3 @@
         margin-top: 64px;
     }
 }
-
-/*@media (max-width: 320px) {
-    .intro {
-        padding: 86px 16px 0;
-    }
-}*/

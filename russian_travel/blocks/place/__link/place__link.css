@@ -1,6 +1,7 @@
 .place__link {
     font-size: 18px;
     line-height: 22px;
+    font-weight: normal;
     text-decoration: underline;
     color: #ffffff;
     transition: 00.35s;
