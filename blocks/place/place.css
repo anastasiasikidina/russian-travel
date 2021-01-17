@@ -34,3 +34,9 @@
         grid-template-columns: 1fr;
     }
 }
+
+@media (max-width: 425px) {
+    .place {
+        margin-top: 64px;
+    }
+}
