@@ -20,12 +20,16 @@
 @media (max-width: 1024px) {
     .place {
         grid-gap: 48px 32px;
+        grid-template-columns: minmax(320px, 440px) minmax(203px, 456px);
     }
 }
 
 @media (max-width: 768px) {
     .place {
         grid-gap: 48px 28px;
+        margin-bottom: 73px;
+        grid-template-columns: minmax(320px, 340px) minmax(203px, 352px);
+    }
     }
 }
 
