@@ -5,6 +5,8 @@
     color: #ffffff;
     align-self: start;
     margin: 8px 0 0;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
 }
 
 @media (max-width: 768px) {
