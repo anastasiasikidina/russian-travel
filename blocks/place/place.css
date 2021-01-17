@@ -38,5 +38,6 @@
 @media (max-width: 425px) {
     .place {
         margin-top: 64px;
+        grid-gap: 32px;
     }
 }
