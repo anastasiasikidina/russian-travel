@@ -30,7 +30,6 @@
         margin-bottom: 47px;
         grid-template-columns: minmax(320px, 340px) minmax(203px, 352px);
     }
-    }
 }
 
 @media (max-width: 700px) {
