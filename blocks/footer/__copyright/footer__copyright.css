@@ -1,0 +1,36 @@
+.footer__copyright {
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: normal;
+    text-align: right;
+    color: white;
+    text-decoration: none;
+    transition: opacity 0.35s;
+    
+}
+
+.footer__copyright:hover {
+    opacity: 0.5;
+}
+
+@media  (max-width: 750px) {
+    .footer__copyright {
+        margin-top: 18px;
+    }
+}
+
+@media  (max-width: 490px) {
+    .footer__copyright {
+        font-size: 14px;
+        line-height: 14px;
+        margin-left: 40px;
+        margin-bottom: 24px;
+    }
+}
+
+@media (max-width: 320px) {
+    .footer__copyright {
+    margin: 48px 118px 24px 16px;
+    text-align: inherit;
+    }
+}
